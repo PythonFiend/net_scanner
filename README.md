@@ -5,7 +5,7 @@ Net Scanner returns all connected devices's IP and their respective MAC addresse
 
 ### How to use net_scanner.py
 
-1. From command line, cd into directory where net_scanner is located
+1. From command line, cd into directory where net_scanner.py is located
 
 2. Run the following command:
 
